@@ -1,0 +1,5 @@
+Student Name: Nikini
+Total Marks: 180
+Percentage: 60.00
+Grade: C
+---------------------------
